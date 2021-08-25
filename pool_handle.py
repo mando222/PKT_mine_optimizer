@@ -9,7 +9,7 @@ wallet_address="pkt1q6aut4088e0fz3qx0flyle9m6rr23dy6e6daxdu"
 
 class Pool:
     name = ""
-    win_percent = ""
+    win_percent = 
     xPath=""
 
 site_url="http://pkt.world/explorer?wallet=&blocks=60"
